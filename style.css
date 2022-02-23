@@ -58,6 +58,10 @@ section p {
     height: 100px;
 }
 
+.mission {
+    margin-bottom: 200px;
+}
+
 .mission-heading {
     text-align: center;
 }
@@ -73,10 +77,51 @@ section p {
     padding: 0;
 }
 
-.documentaion image-area {
-    width: 40%;
+.develop-image {
+    width: 35%;
 }
 
-.documentaion reading-area {
+.develop-image img {
+    margin-left: 20%;
+    margin-right: 10%;
+    width: 100%;
+}
+
+.develop-text {
+    margin-left: 12%;
+    margin-right: 25;
     width: 50%;
+}
+
+.text-area {
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.image-area {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 7%;
+}
+
+.image-area img {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    background-color: #000000;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+footer h2 {
+    font-weight: 700px;
+    font-size: 40px;
+}
+
+.color-2022 {
+    color: rgb(235, 72, 44);
 }

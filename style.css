@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.flexible-area {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+section p {
+    text-align: justify;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 5%;
+}
+
+.half-width img {
+    width: 80%;
+    border-radius: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(204, 32, 32);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 700px;
+    border-radius: 5px;
+}
+
+.side-bar {
+    border-left: 5px solid;
+    border-radius: 3px;
+    border-image: linear-gradient(tomato, salmon);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+
+.flex-child {
+    width: 25%;
+    margin: 4%;
+    height: 100px;
+}
+
+.mission-heading {
+    text-align: center;
+}
+
+.mission flexible-area flex-child mission {
+    background-color: rgb(139, 86, 15);
+}
+
+.flex-child img {
+    height: 200px;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.documentaion image-area {
+    width: 40%;
+}
+
+.documentaion reading-area {
+    width: 50%;
+}
